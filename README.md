@@ -14,16 +14,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->.
-Dedicated and detail-oriented Database Administrator with over 2 years of hands-on experience managing, securing, and optimizing databases across diverse environments. Adept at ensuring database reliability, availability, and performance for mission-critical applications, with a passion for automation, monitoring, and continuous improvement.
+Dedicated and detail-oriented Database Administrator with over 3 years of hands-on experience managing, securing, and optimizing databases across diverse environments. Adept at ensuring database reliability, availability, and performance for mission-critical applications, with a passion for automation, monitoring, and continuous improvement.
 
 Tools & Technologies
-Relational Databases: MySQL, PostgreSQL, Oracle (basic)
+Relational Databases: MySQL, PostgreSQL, Oracle (basic), MSSQL
 
-NoSQL: MongoDB
+NoSQL: MongoDB, Cassandra
 
-Cloud: Azure Storage Services
+Cloud: AWS
 
-ETL & Data Integration: Apache NiFi
+ETL & Data Integration: Apache NiFi, python, pandas
 
 Scripting & Automation: Shell scripting
 
