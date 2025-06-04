@@ -1,38 +1,24 @@
-## Hi there 👋
+# 👋 Hi, I'm Jaysukh Zala — Database Administrator
 
-<!--
-**Jaysukh92/Jaysukh92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Passionate about managing scalable, high-performance databases across MySQL, PostgreSQL, and MongoDB  
+🔐 Focused on automation, optimization, security, and availability  
+🔁 Experienced with real-time replication, PITR backups, and custom monitoring solutions
 
-Here are some ideas to get you started:
+## 🧰 Tools I Use
+- 💽 Databases: MySQL, PostgreSQL, Oracle (basic), MSSQL, MongoDB
+- ☁️ Cloud: AWS (EC2, RDS), Azure
+- ⚙️ Automation: Shell Scripts, Python, Apache NiFi
+- 🛡️ Security: Roles, Privileges, Audit
+- 📊 Monitoring: Custom logs, Performance Schema, Zabbix
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->.
-Dedicated and detail-oriented Database Administrator with over 3 years of hands-on experience managing, securing, and optimizing databases across diverse environments. Adept at ensuring database reliability, availability, and performance for mission-critical applications, with a passion for automation, monitoring, and continuous improvement.
+## 📂 Key Projects
+- 🔄 **MySQL Schema Diff Tool** (WPF/C#)
+- 📦 **Inventory Management Database** (MySQL, scripts + stored procs)
+- 🔄 **Backup & PITR Scripts** (Automated Shell + Cron)
 
-Tools & Technologies
-Relational Databases: MySQL, PostgreSQL, Oracle (basic), MSSQL
+## 📫 Let's Connect
+📧 [jaysukhzala07@Gmail.com] • 💼 [jaysukhZala] 
 
-NoSQL: MongoDB, Cassandra
-
-Cloud: AWS
-
-ETL & Data Integration: Apache NiFi, python, pandas
-
-Scripting & Automation: Shell scripting
-
-Version Control & DevOps: Git, GitHub
-
-Other: Linux-based DB management, MySQL performance tuning, log analysis in MySQL 8+, backup and recovery (PITR), schema design, stored procedures, and roles-based access control
-
-Key Projects & Achievements
-Multi-Database Migration using Apache NiFi for real-time data sync between multiple MySQL databases.
 
 Built a Flask web app with MySQL back-end and role-based admin panel for handling Q&A, storing predictions, and managing users.
 
