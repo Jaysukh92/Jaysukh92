@@ -17,7 +17,7 @@
 - 🔄 **Backup & PITR Scripts** (Automated Shell + Cron)
 
 ## 📫 Let's Connect
-📧 [jaysukhzala07@Gmail.com] • 💼 [jaysukhZala] 
+📧 [jaysukhzala07@gmail.com] • 💼 [jaysukhZala] 
 
 
 Built a Flask web app with MySQL back-end and role-based admin panel for handling Q&A, storing predictions, and managing users.
